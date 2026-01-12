@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I build AI-powered products that solve real problems. Currently focused on tools for artists and creators.
 
 ### 🚀 Recent Project
-**[AI Character Consistency Checker](https://character-checker.vercel.app)** - Shipped in 3 days
+**[AI Character Consistency Checker](https://character-checker.vercel.app)**
 - Gemini Vision API for character analysis
 - Custom ML (K-means) for color extraction
 - Next.js + FastAPI + Railway + Vercel
