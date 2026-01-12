@@ -36,5 +36,3 @@ I build AI-powered products that solve real problems. Currently focused on tools
 **Currently:** Looking for AI Engineering roles at early-stage startups where I can ship products fast and solve real problems.
 
 **Interests:** Anime • Cognitive Psychology • Chess • Piano
-```
-
